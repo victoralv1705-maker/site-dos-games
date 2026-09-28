@@ -4,10 +4,6 @@ Os botões do site ainda não possuem funcionalidades implementadas.
 
 A implementação dessas funcionalidades faz parte das minhas próximas metas de aprendizado, conforme eu avanço nos estudos de desenvolvimento web.
 
-## 📚 Objetivo
-
-Meu objetivo é continuar desenvolvendo projetos, aprimorando meus conhecimentos e evoluindo como desenvolvedor.
-
 # 🎮 Site dos Games
 
 Projeto de um site desenvolvido para praticar e demonstrar meus conhecimentos em desenvolvimento web.
